@@ -615,4 +615,4 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-Built with ❤️ by [Saleem](https://github.com/Saleem-devs)
+Built with ❤️
